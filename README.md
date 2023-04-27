@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
-- [Description](#Experiment Description)
+- [Experiment Description](#Experiment Description)
 - [Data](#Data)
-- [Setup](#Experimental Setup)
+- [Experimenta Setup](#Experimental Setup)
 - [Results](#Results)
 - [Usage](#Usage)
 - [References](#References)
